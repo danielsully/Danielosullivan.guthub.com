@@ -1,0 +1,47 @@
+
+
+body{
+    background-color: #f2f2f2;
+}
+
+.wrapper {
+    margin-left:33%;
+}
+
+.footer{
+    position:fixed;
+    left:15%;
+    bottom:0px;
+    height:240px;
+    width:100%;
+    background:transparent;
+}
+
+.projects {
+    background-color: white;
+    margin-left:33%;
+    margin-top: 300px;
+    width: 500px;
+    height: 2000px;
+}
+
+.projects h2 {
+    text-align: center;
+     margin-top: 90px;
+}
+
+.projects h5 {
+    text-align: center;
+    margin-top:50px;
+}
+
+.projects img {
+    margin-left:50px;
+    margin-top: 10px;
+}
+
+
+.projects p {
+    text-align: center;
+    margin: 15px;
+}
